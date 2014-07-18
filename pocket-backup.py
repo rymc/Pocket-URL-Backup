@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sqlite3, os, sys
 
 def get_db_path():
